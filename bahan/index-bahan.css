@@ -1,0 +1,50 @@
+/*untuk class di tandai titik*/
+/*untuk id di tandai tanda pagar*/
+
+#body{
+	background-color: #fff3f3;
+}
+#container{
+	width: 70%;
+	height:100%;
+	margin:20px auto;
+	border:20px solid pack;
+	background-color: grey;
+}
+
+#kolom1,#kolom4, #kolom5{
+	width: 15%;
+}
+
+#kolom2{
+	width: 35%;
+}
+
+#kolom3{
+	width: 20%;
+}
+
+#buat-baru{
+	font:16pt Helvetica;
+	display:block;
+	padding: 8px;
+}
+
+h3.judul{
+	display: block;
+	font:18pt Helvetica;
+	font-weight: bold;
+	text-align: center;
+	border-bottom: 2px solid black;
+ 
+}
+
+.link{
+	color: red;
+}
+#tabel{
+	font:12pt times new roman;
+	text-align: center;
+	color: black;
+	border-color: black; 
+}
